@@ -8,7 +8,7 @@ Fixing some common problems.
 ## Getting Started
 
 ### Dependencies
-Using css3 and html5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](https://caniuse.com/) for reference). Also using latest ES6/next, you should probably think about including Babel for transpilation (or an NPM script).
+Using css3 and html5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](https://caniuse.com/) for reference). Also using latest ES6/next, you should probably think about including [Babel](https://babeljs.io/) for transpilation (or an NPM script).
 
 ### Installing
 cd to the directory of your choice, clone, and hack away!
