@@ -1,3 +1,5 @@
+![TRAA Logo](../images/traa_logo-MASTER.jpg)
+
 # TRAA Midterm Review
 
 Simple overview of use/purpose.
